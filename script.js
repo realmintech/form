@@ -1,19 +1,10 @@
-// let display = document.getElementById('demo');
+function grade(){
+   if(demo.value >= 70 && demo.value <=100){
+    showup.innerHTML = "A excellent";
+    }
+    else(showup.innerHTML = "fail");
+}
 
-// let displayname = document.getElementById('showup');
-
-
-// function grade(){
-//    if(demo.value >= 70){
-//     display.innerHTML = "A excellent";
-//     }
-// }
-
-// let displaymath = document.getElementById('display_math');
-
-// let score = document.getElementById('score');
-
-// let result = document.getElementById('result')
 
 let form1 = document.getElementById('form1');
 form1.addEventListener("submit" , function (e){
