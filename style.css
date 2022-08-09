@@ -1,0 +1,17 @@
+#math{
+    height: 50px; 
+    width: 40%;
+    border-radius: 10%; 
+    margin-bottom: 2%; 
+}
+#form1{
+    width: 50%;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+button{
+    margin-left: 20%;
+}
+#result{
+    margin-left: 40%;
+}
